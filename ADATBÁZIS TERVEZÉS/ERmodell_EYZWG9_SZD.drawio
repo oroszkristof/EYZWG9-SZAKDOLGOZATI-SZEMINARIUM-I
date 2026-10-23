@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Oldal-1" id="LRPixkyF6_c-RO9gwdxS">
-    <mxGraphModel dx="1057" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="400" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -680,11 +680,11 @@
         <mxCell id="KJ5cOILudshZJ26VTsUS-75" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="O - B" vertex="1">
           <mxGeometry height="80" width="80" x="3281" y="1810" as="geometry" />
         </mxCell>
-        <mxCell id="KJ5cOILudshZJ26VTsUS-79" edge="1" parent="1" source="KJ5cOILudshZJ26VTsUS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="A93X9YtqGVHK9BXxDzJM-168">
+        <mxCell id="KJ5cOILudshZJ26VTsUS-79" edge="1" parent="1" source="KJ5cOILudshZJ26VTsUS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=doubleBlock;endFill=1;" target="A93X9YtqGVHK9BXxDzJM-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KJ5cOILudshZJ26VTsUS-83" edge="1" parent="1" source="KJ5cOILudshZJ26VTsUS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=doubleBlock;endFill=1;" target="A93X9YtqGVHK9BXxDzJM-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KJ5cOILudshZJ26VTsUS-83" edge="1" parent="1" source="KJ5cOILudshZJ26VTsUS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=classic;endFill=1;" target="A93X9YtqGVHK9BXxDzJM-1">
+          <mxGeometry relative="1" x="0.005" as="geometry" />
         </mxCell>
         <mxCell id="KJ5cOILudshZJ26VTsUS-78" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="F - O" vertex="1">
           <mxGeometry height="80" width="80" x="2581" y="1660" as="geometry" />
