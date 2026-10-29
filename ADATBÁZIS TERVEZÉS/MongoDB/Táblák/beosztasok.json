@@ -1,0 +1,38 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "beosztasok_id",
+      "felhasznalok_id",
+      "feladat_id",
+      "optimalizalas_id",
+      "tervezett_munkaora",
+      "tenyleges_munkaora",
+      "statusz"
+    ],
+    "properties": {
+      "beosztasok_id": {
+        "bsonType": "int"
+      },
+      "felhasznalok_id": {
+        "bsonType": "int"
+      },
+      "feladat_id": {
+        "bsonType": "int"
+      },
+      "optimalizalas_id": {
+        "bsonType": "int"
+      },
+      "tervezett_munkaora": {
+        "bsonType": "int"
+      },
+      "tenyleges_munkaora": {
+        "bsonType": "int"
+      },
+      "statusz": {
+        "bsonType": "string"
+      }
+    }
+  }
+}

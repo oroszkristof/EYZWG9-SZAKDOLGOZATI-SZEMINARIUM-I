@@ -1,0 +1,67 @@
+
+[
+  {
+    "felhasznalok_keszsegek_id": 1,
+    "felhasznalo_id": 2,
+    "keszseg_id": 1,
+    "szint": 5,
+    "tapasztalat_ev": 8,
+    "megjegyzes": "Haladó Python fejlesztési tapasztalat"
+  },
+  {
+    "felhasznalok_keszsegek_id": 2,
+    "felhasznalo_id": 2,
+    "keszseg_id": 4,
+    "szint": 5,
+    "tapasztalat_ev": 7,
+    "megjegyzes": "Összetett SQL-lekérdezések készítése"
+  },
+  {
+    "felhasznalok_keszsegek_id": 3,
+    "felhasznalo_id": 3,
+    "keszseg_id": 1,
+    "szint": 4,
+    "tapasztalat_ev": 4,
+    "megjegyzes": "Backend fejlesztés Python nyelven"
+  },
+  {
+    "felhasznalok_keszsegek_id": 4,
+    "felhasznalo_id": 3,
+    "keszseg_id": 6,
+    "szint": 3,
+    "tapasztalat_ev": 2,
+    "megjegyzes": "MongoDB adatbázisok használata"
+  },
+  {
+    "felhasznalok_keszsegek_id": 5,
+    "felhasznalo_id": 4,
+    "keszseg_id": 3,
+    "szint": 5,
+    "tapasztalat_ev": 7,
+    "megjegyzes": "Haladó JavaScript fejlesztés"
+  },
+  {
+    "felhasznalok_keszsegek_id": 6,
+    "felhasznalo_id": 4,
+    "keszseg_id": 5,
+    "szint": 5,
+    "tapasztalat_ev": 6,
+    "megjegyzes": "React alkalmazások fejlesztése"
+  },
+  {
+    "felhasznalok_keszsegek_id": 7,
+    "felhasznalo_id": 5,
+    "keszseg_id": 3,
+    "szint": 3,
+    "tapasztalat_ev": 3,
+    "megjegyzes": "JavaScript alapú webfejlesztés"
+  },
+  {
+    "felhasznalok_keszsegek_id": 8,
+    "felhasznalo_id": 5,
+    "keszseg_id": 5,
+    "szint": 3,
+    "tapasztalat_ev": 2,
+    "megjegyzes": "React komponensek készítése"
+  }
+]

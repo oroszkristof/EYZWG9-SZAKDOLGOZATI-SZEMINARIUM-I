@@ -1,0 +1,63 @@
+
+[
+  {
+    "keszsegek_id": 1,
+    "nev": "Python",
+    "kategoria": "Programozási nyelv",
+    "leiras": "Python programozási nyelv használata",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "keszsegek_id": 2,
+    "nev": "Java",
+    "kategoria": "Programozási nyelv",
+    "leiras": "Java alkalmazások fejlesztése",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "keszsegek_id": 3,
+    "nev": "JavaScript",
+    "kategoria": "Programozási nyelv",
+    "leiras": "Webes alkalmazások fejlesztése JavaScript használatával",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "keszsegek_id": 4,
+    "nev": "SQL",
+    "kategoria": "Adatbázis-kezelés",
+    "leiras": "Relációs adatbázisok kezelése és SQL-lekérdezések készítése",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "keszsegek_id": 5,
+    "nev": "React",
+    "kategoria": "Frontend keretrendszer",
+    "leiras": "Felhasználói felületek fejlesztése React használatával",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "keszsegek_id": 6,
+    "nev": "MongoDB",
+    "kategoria": "Adatbázis-kezelés",
+    "leiras": "Dokumentumorientált adatbázisok kezelése",
+    "aktiv": true,
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  }
+]

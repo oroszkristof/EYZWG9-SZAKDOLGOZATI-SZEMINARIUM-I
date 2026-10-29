@@ -1,0 +1,78 @@
+
+[
+  {
+    "felhasznalok_id": 1,
+    "ceg_id": 1,
+    "nev": "Kovács Péter",
+    "email": "kovacs.peter@technova.hu",
+    "jelszo": "teszt123",
+    "szerepkor": "cegvezeto",
+    "szakterulet": "Vállalatvezetés",
+    "tapasztalat_ev": 12,
+    "heti_kapacitas": 40,
+    "foglalkoztatas_tipusa": "teljes_munkaido",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "felhasznalok_id": 2,
+    "ceg_id": 1,
+    "nev": "Nagy Anna",
+    "email": "nagy.anna@technova.hu",
+    "jelszo": "teszt123",
+    "szerepkor": "csoportvezeto",
+    "szakterulet": "Backend fejlesztés",
+    "tapasztalat_ev": 8,
+    "heti_kapacitas": 40,
+    "foglalkoztatas_tipusa": "teljes_munkaido",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "felhasznalok_id": 3,
+    "ceg_id": 1,
+    "nev": "Szabó Bence",
+    "email": "szabo.bence@technova.hu",
+    "jelszo": "teszt123",
+    "szerepkor": "fejleszto",
+    "szakterulet": "Python fejlesztés",
+    "tapasztalat_ev": 4,
+    "heti_kapacitas": 40,
+    "foglalkoztatas_tipusa": "teljes_munkaido",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "felhasznalok_id": 4,
+    "ceg_id": 2,
+    "nev": "Tóth Eszter",
+    "email": "toth.eszter@codebridge.hu",
+    "jelszo": "teszt123",
+    "szerepkor": "csoportvezeto",
+    "szakterulet": "Frontend fejlesztés",
+    "tapasztalat_ev": 7,
+    "heti_kapacitas": 40,
+    "foglalkoztatas_tipusa": "teljes_munkaido",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "felhasznalok_id": 5,
+    "ceg_id": 2,
+    "nev": "Varga Dávid",
+    "email": "varga.david@codebridge.hu",
+    "jelszo": "teszt123",
+    "szerepkor": "fejleszto",
+    "szakterulet": "Webfejlesztés",
+    "tapasztalat_ev": 3,
+    "heti_kapacitas": 20,
+    "foglalkoztatas_tipusa": "reszmunkaido",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "cegek_id",
+      "nev",
+      "email",
+      "adoszam",
+      "letrehozva"
+    ],
+    "properties": {
+      "cegek_id": {
+        "bsonType": "int"
+      },
+      "nev": {
+        "bsonType": "string"
+      },
+      "email": {
+        "bsonType": "string"
+      },
+      "adoszam": {
+        "bsonType": "string"
+      },
+      "letrehozva": {
+        "bsonType": "date"
+      }
+    }
+  }
+}

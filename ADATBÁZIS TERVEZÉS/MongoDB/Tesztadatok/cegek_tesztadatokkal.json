@@ -1,0 +1,21 @@
+
+[
+  {
+    "cegek_id": 1,
+    "nev": "TechNova Kft.",
+    "email": "info@technova.hu",
+    "adoszam": "12345678-2-41",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "cegek_id": 2,
+    "nev": "CodeBridge Kft.",
+    "email": "info@codebridge.hu",
+    "adoszam": "87654321-2-42",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  }
+]

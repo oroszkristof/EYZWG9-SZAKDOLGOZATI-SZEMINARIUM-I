@@ -1,0 +1,93 @@
+
+[
+  {
+    "beosztasok_id": 1,
+    "felhasznalok_id": 3,
+    "feladat_id": 1,
+    "optimalizalas_id": 1,
+    "tervezett_munkaora": 40,
+    "tenyleges_munkaora": 20,
+    "statusz": "folyamatban"
+  },
+  {
+    "beosztasok_id": 2,
+    "felhasznalok_id": 2,
+    "feladat_id": 2,
+    "optimalizalas_id": 1,
+    "tervezett_munkaora": 24,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 3,
+    "felhasznalok_id": 3,
+    "feladat_id": 3,
+    "optimalizalas_id": 2,
+    "tervezett_munkaora": 36,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 4,
+    "felhasznalok_id": 3,
+    "feladat_id": 4,
+    "optimalizalas_id": 2,
+    "tervezett_munkaora": 28,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 5,
+    "felhasznalok_id": 4,
+    "feladat_id": 5,
+    "optimalizalas_id": 3,
+    "tervezett_munkaora": 40,
+    "tenyleges_munkaora": 18,
+    "statusz": "folyamatban"
+  },
+  {
+    "beosztasok_id": 6,
+    "felhasznalok_id": 5,
+    "feladat_id": 6,
+    "optimalizalas_id": 3,
+    "tervezett_munkaora": 24,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 7,
+    "felhasznalok_id": 5,
+    "feladat_id": 7,
+    "optimalizalas_id": 4,
+    "tervezett_munkaora": 30,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 8,
+    "felhasznalok_id": 4,
+    "feladat_id": 8,
+    "optimalizalas_id": 4,
+    "tervezett_munkaora": 20,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  },
+  {
+    "beosztasok_id": 9,
+    "felhasznalok_id": 3,
+    "feladat_id": 9,
+    "optimalizalas_id": 5,
+    "tervezett_munkaora": 36,
+    "tenyleges_munkaora": 12,
+    "statusz": "folyamatban"
+  },
+  {
+    "beosztasok_id": 10,
+    "felhasznalok_id": 2,
+    "feladat_id": 10,
+    "optimalizalas_id": 5,
+    "tervezett_munkaora": 20,
+    "tenyleges_munkaora": 0,
+    "statusz": "tervezett"
+  }
+]

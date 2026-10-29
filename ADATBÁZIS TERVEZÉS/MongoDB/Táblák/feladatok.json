@@ -1,0 +1,51 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "feladatok_id",
+      "projekt_id",
+      "szukseges_keszseg_id",
+      "nev",
+      "leiras",
+      "prioritas",
+      "becsult_munkaora",
+      "elvart_szint",
+      "hatarido",
+      "statusz"
+    ],
+    "properties": {
+      "feladatok_id": {
+        "bsonType": "int"
+      },
+      "projekt_id": {
+        "bsonType": "int"
+      },
+      "szukseges_keszseg_id": {
+        "bsonType": "int"
+      },
+      "nev": {
+        "bsonType": "string"
+      },
+      "leiras": {
+        "bsonType": "string"
+      },
+      "prioritas": {
+        "bsonType": "int"
+      },
+      "becsult_munkaora": {
+        "bsonType": "int"
+      },
+      "elvart_szint": {
+        "bsonType": "int",
+        "minimum": 1,
+        "maximum": 5
+      },
+      "hatarido": {
+        "bsonType": "date"
+      },
+      "statusz": {
+        "bsonType": "string"
+      }
+    }
+  }
+}

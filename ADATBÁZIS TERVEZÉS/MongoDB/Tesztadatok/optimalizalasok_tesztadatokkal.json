@@ -1,0 +1,108 @@
+
+[
+  {
+    "optimalizalasok_id": 1,
+    "projekt_id": 1,
+    "futtato_id": 2,
+    "optimalizalas_nev": "Vállalatirányítási rendszer optimalizálása",
+    "futtatas_ideje": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    },
+    "populacio_meret": 50,
+    "generaciok_szama": 100,
+    "mutacios_rata": {
+      "$numberDouble": "0.05"
+    },
+    "keresztezesi_rata": {
+      "$numberDouble": "0.8"
+    },
+    "fitness_ertek": {
+      "$numberDouble": "92.5"
+    },
+    "futasi_ido_ms": 1250
+  },
+  {
+    "optimalizalasok_id": 2,
+    "projekt_id": 2,
+    "futtato_id": 2,
+    "optimalizalas_nev": "Adatfeldolgozó platform optimalizálása",
+    "futtatas_ideje": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    },
+    "populacio_meret": 60,
+    "generaciok_szama": 120,
+    "mutacios_rata": {
+      "$numberDouble": "0.04"
+    },
+    "keresztezesi_rata": {
+      "$numberDouble": "0.85"
+    },
+    "fitness_ertek": {
+      "$numberDouble": "89.75"
+    },
+    "futasi_ido_ms": 1480
+  },
+  {
+    "optimalizalasok_id": 3,
+    "projekt_id": 3,
+    "futtato_id": 4,
+    "optimalizalas_nev": "Webáruház fejlesztés optimalizálása",
+    "futtatas_ideje": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    },
+    "populacio_meret": 50,
+    "generaciok_szama": 100,
+    "mutacios_rata": {
+      "$numberDouble": "0.06"
+    },
+    "keresztezesi_rata": {
+      "$numberDouble": "0.8"
+    },
+    "fitness_ertek": {
+      "$numberDouble": "94.2"
+    },
+    "futasi_ido_ms": 1320
+  },
+  {
+    "optimalizalasok_id": 4,
+    "projekt_id": 4,
+    "futtato_id": 4,
+    "optimalizalas_nev": "Ügyfélportál optimalizálása",
+    "futtatas_ideje": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    },
+    "populacio_meret": 40,
+    "generaciok_szama": 80,
+    "mutacios_rata": {
+      "$numberDouble": "0.05"
+    },
+    "keresztezesi_rata": {
+      "$numberDouble": "0.75"
+    },
+    "fitness_ertek": {
+      "$numberDouble": "87.6"
+    },
+    "futasi_ido_ms": 980
+  },
+  {
+    "optimalizalasok_id": 5,
+    "projekt_id": 5,
+    "futtato_id": 2,
+    "optimalizalas_nev": "API integrációs rendszer optimalizálása",
+    "futtatas_ideje": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    },
+    "populacio_meret": 70,
+    "generaciok_szama": 150,
+    "mutacios_rata": {
+      "$numberDouble": "0.03"
+    },
+    "keresztezesi_rata": {
+      "$numberDouble": "0.9"
+    },
+    "fitness_ertek": {
+      "$numberDouble": "95.1"
+    },
+    "futasi_ido_ms": 1750
+  }
+]

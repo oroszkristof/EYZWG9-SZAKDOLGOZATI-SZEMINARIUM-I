@@ -1,0 +1,50 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "projektek_id",
+      "ceg_id",
+      "csoport_id",
+      "nev",
+      "leiras",
+      "kezdes",
+      "hatarido",
+      "prioritas",
+      "statusz",
+      "letrehozva"
+    ],
+    "properties": {
+      "projektek_id": {
+        "bsonType": "int"
+      },
+      "ceg_id": {
+        "bsonType": "int"
+      },
+      "csoport_id": {
+        "bsonType": "int"
+      },
+      "nev": {
+        "bsonType": "string"
+      },
+      "leiras": {
+        "bsonType": "string"
+      },
+      "kezdes": {
+        "bsonType": "date"
+      },
+      "hatarido": {
+        "bsonType": "date"
+      },
+      "prioritas": {
+        "bsonType": "int"
+      },
+      "statusz": {
+        "bsonType": "string"
+      },
+      "letrehozva": {
+        "bsonType": "date"
+      }
+    }
+  }
+}

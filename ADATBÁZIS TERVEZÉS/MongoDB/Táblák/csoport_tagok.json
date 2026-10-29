@@ -1,0 +1,21 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "csoport_tagok_id",
+      "csoport_id",
+      "felhasznalo_id"
+    ],
+    "properties": {
+      "csoport_tagok_id": {
+        "bsonType": "int"
+      },
+      "csoport_id": {
+        "bsonType": "int"
+      },
+      "felhasznalo_id": {
+        "bsonType": "int"
+      }
+    }
+  }
+}

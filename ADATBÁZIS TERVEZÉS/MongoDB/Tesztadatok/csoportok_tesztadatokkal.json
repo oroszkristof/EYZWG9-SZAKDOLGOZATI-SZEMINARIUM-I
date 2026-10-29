@@ -1,0 +1,24 @@
+
+[
+  {
+    "csoportok_id": 1,
+    "ceg_id": 1,
+    "vezeto_id": 2,
+    "nev": "Backend fejlesztői csoport",
+    "leiras": "Szerveroldali alkalmazások és API-k fejlesztése"
+  },
+  {
+    "csoportok_id": 2,
+    "ceg_id": 1,
+    "vezeto_id": 2,
+    "nev": "Adatfeldolgozó csoport",
+    "leiras": "Adatfeldolgozási és adatbázis-kezelési feladatok"
+  },
+  {
+    "csoportok_id": 3,
+    "ceg_id": 2,
+    "vezeto_id": 4,
+    "nev": "Frontend fejlesztői csoport",
+    "leiras": "Webes felhasználói felületek fejlesztése"
+  }
+]

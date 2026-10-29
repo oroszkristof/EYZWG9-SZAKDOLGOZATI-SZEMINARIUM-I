@@ -1,0 +1,54 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "optimalizalasok_id",
+      "projekt_id",
+      "futtato_id",
+      "optimalizalas_nev",
+      "futtatas_ideje",
+      "populacio_meret",
+      "generaciok_szama",
+      "mutacios_rata",
+      "keresztezesi_rata",
+      "fitness_ertek",
+      "futasi_ido_ms"
+    ],
+    "properties": {
+      "optimalizalasok_id": {
+        "bsonType": "int"
+      },
+      "projekt_id": {
+        "bsonType": "int"
+      },
+      "futtato_id": {
+        "bsonType": "int"
+      },
+      "optimalizalas_nev": {
+        "bsonType": "string"
+      },
+      "futtatas_ideje": {
+        "bsonType": "date"
+      },
+      "populacio_meret": {
+        "bsonType": "int"
+      },
+      "generaciok_szama": {
+        "bsonType": "int"
+      },
+      "mutacios_rata": {
+        "bsonType": "double"
+      },
+      "keresztezesi_rata": {
+        "bsonType": "double"
+      },
+      "fitness_ertek": {
+        "bsonType": "double"
+      },
+      "futasi_ido_ms": {
+        "bsonType": "int"
+      }
+    }
+  }
+}

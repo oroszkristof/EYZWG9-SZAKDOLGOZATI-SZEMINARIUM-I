@@ -1,0 +1,123 @@
+
+[
+  {
+    "feladatok_id": 1,
+    "projekt_id": 1,
+    "szukseges_keszseg_id": 1,
+    "nev": "Backend API fejlesztése",
+    "leiras": "Backend API-végpontok kialakítása Python használatával",
+    "prioritas": 5,
+    "becsult_munkaora": 40,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2026-12-15T00:00:00.000Z" },
+    "statusz": "folyamatban"
+  },
+  {
+    "feladatok_id": 2,
+    "projekt_id": 1,
+    "szukseges_keszseg_id": 4,
+    "nev": "Adatbázis-lekérdezések készítése",
+    "leiras": "SQL-lekérdezések és adatkezelési műveletek fejlesztése",
+    "prioritas": 4,
+    "becsult_munkaora": 24,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2026-12-20T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 3,
+    "projekt_id": 2,
+    "szukseges_keszseg_id": 1,
+    "nev": "Adatfeldolgozó modul fejlesztése",
+    "leiras": "Adatfeldolgozási funkciók megvalósítása Python nyelven",
+    "prioritas": 5,
+    "becsult_munkaora": 36,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2027-01-15T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 4,
+    "projekt_id": 2,
+    "szukseges_keszseg_id": 6,
+    "nev": "MongoDB adatkezelés kialakítása",
+    "leiras": "Dokumentumorientált adattárolási műveletek megvalósítása",
+    "prioritas": 4,
+    "becsult_munkaora": 28,
+    "elvart_szint": 3,
+    "hatarido": { "$date": "2027-01-31T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 5,
+    "projekt_id": 3,
+    "szukseges_keszseg_id": 3,
+    "nev": "Webáruház felület fejlesztése",
+    "leiras": "A webáruház felhasználói felületének kialakítása",
+    "prioritas": 5,
+    "becsult_munkaora": 40,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2026-12-10T00:00:00.000Z" },
+    "statusz": "folyamatban"
+  },
+  {
+    "feladatok_id": 6,
+    "projekt_id": 3,
+    "szukseges_keszseg_id": 5,
+    "nev": "Terméklista komponens készítése",
+    "leiras": "Termékeket megjelenítő React komponens fejlesztése",
+    "prioritas": 4,
+    "becsult_munkaora": 24,
+    "elvart_szint": 3,
+    "hatarido": { "$date": "2026-12-20T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 7,
+    "projekt_id": 4,
+    "szukseges_keszseg_id": 5,
+    "nev": "Ügyfélportál kezdőoldal",
+    "leiras": "Az ügyfélportál kezdőoldalának kialakítása React használatával",
+    "prioritas": 3,
+    "becsult_munkaora": 30,
+    "elvart_szint": 3,
+    "hatarido": { "$date": "2027-02-01T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 8,
+    "projekt_id": 4,
+    "szukseges_keszseg_id": 3,
+    "nev": "Űrlapkezelés megvalósítása",
+    "leiras": "Interaktív űrlapok és adatellenőrzési funkciók fejlesztése",
+    "prioritas": 3,
+    "becsult_munkaora": 20,
+    "elvart_szint": 3,
+    "hatarido": { "$date": "2027-02-15T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 9,
+    "projekt_id": 5,
+    "szukseges_keszseg_id": 1,
+    "nev": "API integráció fejlesztése",
+    "leiras": "Külső API-khoz kapcsolódó integrációs funkciók fejlesztése",
+    "prioritas": 5,
+    "becsult_munkaora": 36,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2027-02-28T00:00:00.000Z" },
+    "statusz": "tervezett"
+  },
+  {
+    "feladatok_id": 10,
+    "projekt_id": 5,
+    "szukseges_keszseg_id": 4,
+    "nev": "Integrációs adatok kezelése",
+    "leiras": "Az integráció során keletkező adatok tárolása és lekérdezése",
+    "prioritas": 4,
+    "becsult_munkaora": 20,
+    "elvart_szint": 4,
+    "hatarido": { "$date": "2027-03-15T00:00:00.000Z" },
+    "statusz": "tervezett"
+  }
+]

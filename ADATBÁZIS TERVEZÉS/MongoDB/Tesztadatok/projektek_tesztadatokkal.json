@@ -1,0 +1,93 @@
+
+[
+  {
+    "projektek_id": 1,
+    "ceg_id": 1,
+    "csoport_id": 1,
+    "nev": "Vállalatirányítási rendszer",
+    "leiras": "Vállalati folyamatokat támogató alkalmazás fejlesztése",
+    "kezdes": {
+      "$date": "2026-11-02T00:00:00.000Z"
+    },
+    "hatarido": {
+      "$date": "2027-01-31T00:00:00.000Z"
+    },
+    "prioritas": 5,
+    "statusz": "folyamatban",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "projektek_id": 2,
+    "ceg_id": 1,
+    "csoport_id": 2,
+    "nev": "Adatfeldolgozó platform",
+    "leiras": "Adatok feldolgozását és tárolását végző rendszer kialakítása",
+    "kezdes": {
+      "$date": "2026-11-09T00:00:00.000Z"
+    },
+    "hatarido": {
+      "$date": "2027-02-28T00:00:00.000Z"
+    },
+    "prioritas": 4,
+    "statusz": "tervezett",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "projektek_id": 3,
+    "ceg_id": 2,
+    "csoport_id": 3,
+    "nev": "Webáruház fejlesztés",
+    "leiras": "Webes értékesítési felület kialakítása",
+    "kezdes": {
+      "$date": "2026-11-02T00:00:00.000Z"
+    },
+    "hatarido": {
+      "$date": "2027-01-15T00:00:00.000Z"
+    },
+    "prioritas": 5,
+    "statusz": "folyamatban",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "projektek_id": 4,
+    "ceg_id": 2,
+    "csoport_id": 3,
+    "nev": "Ügyfélportál",
+    "leiras": "Ügyfelek számára elérhető webes portál fejlesztése",
+    "kezdes": {
+      "$date": "2026-11-16T00:00:00.000Z"
+    },
+    "hatarido": {
+      "$date": "2027-03-15T00:00:00.000Z"
+    },
+    "prioritas": 3,
+    "statusz": "tervezett",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  },
+  {
+    "projektek_id": 5,
+    "ceg_id": 1,
+    "csoport_id": 1,
+    "nev": "API integrációs rendszer",
+    "leiras": "Külső rendszerekkel történő adatkapcsolatok kialakítása",
+    "kezdes": {
+      "$date": "2026-12-01T00:00:00.000Z"
+    },
+    "hatarido": {
+      "$date": "2027-03-31T00:00:00.000Z"
+    },
+    "prioritas": 4,
+    "statusz": "tervezett",
+    "letrehozva": {
+      "$date": "2026-10-29T12:00:00.000Z"
+    }
+  }
+]

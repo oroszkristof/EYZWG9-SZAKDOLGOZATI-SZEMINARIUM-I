@@ -1,0 +1,29 @@
+
+
+[
+  {
+    "csoport_tagok_id": 1,
+    "csoport_id": 1,
+    "felhasznalo_id": 2
+  },
+  {
+    "csoport_tagok_id": 2,
+    "csoport_id": 1,
+    "felhasznalo_id": 3
+  },
+  {
+    "csoport_tagok_id": 3,
+    "csoport_id": 2,
+    "felhasznalo_id": 2
+  },
+  {
+    "csoport_tagok_id": 4,
+    "csoport_id": 2,
+    "felhasznalo_id": 3
+  },
+  {
+    "csoport_tagok_id": 5,
+    "csoport_id": 3,
+    "felhasznalo_id": 4
+  }
+]

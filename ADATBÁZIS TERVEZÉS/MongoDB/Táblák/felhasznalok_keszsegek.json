@@ -1,0 +1,36 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "felhasznalok_keszsegek_id",
+      "felhasznalo_id",
+      "keszseg_id",
+      "szint",
+      "tapasztalat_ev"
+    ],
+    "properties": {
+      "felhasznalok_keszsegek_id": {
+        "bsonType": "int"
+      },
+      "felhasznalo_id": {
+        "bsonType": "int"
+      },
+      "keszseg_id": {
+        "bsonType": "int"
+      },
+      "szint": {
+        "bsonType": "int",
+        "minimum": 1,
+        "maximum": 5
+      },
+      "tapasztalat_ev": {
+        "bsonType": "int",
+        "minimum": 0
+      },
+      "megjegyzes": {
+        "bsonType": "string"
+      }
+    }
+  }
+}

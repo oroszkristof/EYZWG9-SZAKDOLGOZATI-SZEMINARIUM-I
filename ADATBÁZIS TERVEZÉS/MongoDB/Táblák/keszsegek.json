@@ -1,0 +1,34 @@
+
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "keszsegek_id",
+      "nev",
+      "kategoria",
+      "leiras",
+      "aktiv",
+      "letrehozva"
+    ],
+    "properties": {
+      "keszsegek_id": {
+        "bsonType": "int"
+      },
+      "nev": {
+        "bsonType": "string"
+      },
+      "kategoria": {
+        "bsonType": "string"
+      },
+      "leiras": {
+        "bsonType": "string"
+      },
+      "aktiv": {
+        "bsonType": "bool"
+      },
+      "letrehozva": {
+        "bsonType": "date"
+      }
+    }
+  }
+}
